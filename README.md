@@ -3,7 +3,7 @@
 Here you can fine the genertaed word embeddings for KSUAravec from King Saud University Corpus of Classical Arabic (KSUCCA) :
 https://mahaalrabiah.wordpress.com/2012/07/20/king-saud-university-corpus-of-classical-arabic-ksucca/
 
-### We trained KSUCCA with word2vec models ( CBOW and SG) twice. the first time with row text, the second time with weaksupervision using POS tags.
+### We trained KSUCCA with word2vec models ( CBOW and SG) twice, the first time with row text and the second time with weaksupervision using POS tags.
 ### The used hyperparameters were ( 5 for window size) and ( 300 for dimentions) as defalte settings and we trained with range of epoches from 5 to 50)
 
 # Unsupervised models (row text):
