@@ -1,4 +1,4 @@
-# KSUaravec
+# KSUAravec
 
 Here you can fine the genertaed word embeddings for KSUAravec from King Saud University Corpus of Classical Arabic (KSUCCA) :
 https://mahaalrabiah.wordpress.com/2012/07/20/king-saud-university-corpus-of-classical-arabic-ksucca/
@@ -10,7 +10,6 @@ https://mahaalrabiah.wordpress.com/2012/07/20/king-saud-university-corpus-of-cla
 
 
 ## KSUCCA - CBOW 
-#### Epochs = 5
 
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
@@ -22,11 +21,8 @@ CBOW        | 30  | **300**           | 5	        | [Download](https://bakrianoo
 CBOW        | 40 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
 CBOW        | 50 | **300**           | 5         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
 
+## KSUCCA - SG 
 
-
-
-## KSUCCA - SG - Round(A)
-#### Epochs = 5
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
 SG        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/sh/1tvz8je9goebjq9/AAD1emSabZ5xO4wNngJWGm6va?dl=0) |
@@ -36,19 +32,11 @@ SG        | 30  | **300**           | 5	        | [Download](https://bakrianoo.s
 SG        | 40 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
 SG        | 50 | **300**           | 5         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
 
-
 ***
 
 ## POS weak supervision
 
-
 ## KSUCCA-POS - CBOW 
-#### Epochs = 5
-
-
-## KSUCCA - CBOW 
-#### Epochs = 5
-
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
@@ -60,9 +48,7 @@ CBOW        | 40 | **300**           | 5 	        | [Download](https://bakrianoo
 CBOW        | 50 | **300**           | 5         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
 
 
-
-
-## KSUCCA - SG 
+## KSUCCA-POS - SG
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
