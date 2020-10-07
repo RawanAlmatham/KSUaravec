@@ -15,22 +15,22 @@ https://mahaalrabiah.wordpress.com/2012/07/20/king-saud-university-corpus-of-cla
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
 CBOW        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/pm2d6rx0axt48o3/KSU_CBOW_300_5.zip?dl=0) |
-CBOW         | 10 | **300**          | 5        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
-CBOW        | 20 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
-CBOW        | 30  | **300**           | 5	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
-CBOW        | 40 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
-CBOW        | 50 | **300**           | 5         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
+CBOW         | 10 | **300**          | 5        | [Download](https://www.dropbox.com/s/pm2d6rx0axt48o3/KSU_CBOW_300_5.zip?dl=0) |
+CBOW        | 20 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/pe1n3qq11lsv9fy/KSU_CBOW_300_20.zip?dl=0) |
+CBOW        | 30  | **300**           | 5	        | [Download](https://www.dropbox.com/s/pe1n3qq11lsv9fy/KSU_CBOW_300_20.zip?dl=0) |
+CBOW        | 40 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/pe1n3qq11lsv9fy/KSU_CBOW_300_20.zip?dl=0) |
+CBOW        | 50 | **300**           | 5         | [Download](https://www.dropbox.com/s/cfffboh0hjp1ahl/KSU_CBOW_300_40.zip?dl=0) |
 
 ## KSUCCA - SG 
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
-SG        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/sh/1tvz8je9goebjq9/AAD1emSabZ5xO4wNngJWGm6va?dl=0) |
-SG         | 10 | **300**          | 5        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
-SG        | 20 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
-SG        | 30  | **300**           | 5	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
-SG        | 40 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
-SG        | 50 | **300**           | 5         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
+SG        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/cfffboh0hjp1ahl/KSU_CBOW_300_40.zip?dl=0) |
+SG         | 10 | **300**          | 5        | [Download](https://www.dropbox.com/s/cfffboh0hjp1ahl/KSU_CBOW_300_40.zip?dl=0) |
+SG        | 20 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/exnrjl5cuvry6k4/KSU_SG_300_20.zip?dl=0) |
+SG        | 30  | **300**           | 5	        | [Download](https://www.dropbox.com/s/exnrjl5cuvry6k4/KSU_SG_300_20.zip?dl=0) |
+SG        | 40 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/exnrjl5cuvry6k4/KSU_SG_300_20.zip?dl=0) |
+SG        | 50 | **300**           | 5         | [Download](https://www.dropbox.com/s/fdg4jje3v7um5lz/KSU_SG_300_50.zip?dl=0) |
 
 ***
 
@@ -40,24 +40,24 @@ SG        | 50 | **300**           | 5         | [Download](https://bakrianoo.sf
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
-CBOW        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/sh/1tvz8je9goebjq9/AAD1emSabZ5xO4wNngJWGm6va?dl=0) |
-CBOW         | 10 | **300**          | 5        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
-CBOW        | 20 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
-CBOW        | 30  | **300**           | 5	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
-CBOW        | 40 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
-CBOW        | 50 | **300**           | 5         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
+CBOW        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/fdg4jje3v7um5lz/KSU_SG_300_50.zip?dl=0) |
+CBOW         | 10 | **300**          | 5        | [Download](https://www.dropbox.com/s/18vpp1wb1ekvl4g/KSU_POS_CBOW_300_10.zip?dl=0) |
+CBOW        | 20 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/18vpp1wb1ekvl4g/KSU_POS_CBOW_300_10.zip?dl=0) |
+CBOW        | 30  | **300**           | 5	        | [Download](https://www.dropbox.com/s/18vpp1wb1ekvl4g/KSU_POS_CBOW_300_10.zip?dl=0) |
+CBOW        | 40 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/0ko496zkh8qkql2/KSU_POS_CBOW_300_40.zip?dl=0) |
+CBOW        | 50 | **300**           | 5         | [Download](https://www.dropbox.com/s/0ko496zkh8qkql2/KSU_POS_CBOW_300_40.zip?dl=0) |
 
 
 ## KSUCCA-POS - SG
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
-SG        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/sh/1tvz8je9goebjq9/AAD1emSabZ5xO4wNngJWGm6va?dl=0) |
-SG         | 10 | **300**          | 5        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
-SG        | 20 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
-SG        | 30  | **300**           | 5	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
-SG        | 40 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
-SG        | 50 | **300**           | 5         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
+CBOW        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/0ko496zkh8qkql2/KSU_POS_CBOW_300_40.zip?dl=0) |
+CBOW         | 10 | **300**          | 5        | [Download](https://www.dropbox.com/s/0ko496zkh8qkql2/KSU_POS_CBOW_300_40.zip?dl=0) |
+CBOW        | 20 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/0ko496zkh8qkql2/KSU_POS_CBOW_300_40.zip?dl=0) |
+CBOW        | 30  | **300**           | 5	        | [Download](https://www.dropbox.com/s/0ko496zkh8qkql2/KSU_POS_CBOW_300_40.zip?dl=0) |
+CBOW        | 40 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/0ko496zkh8qkql2/KSU_POS_CBOW_300_40.zip?dl=0) |
+CBOW        | 50 | **300**           | 5         | [Download](https://www.dropbox.com/s/0ko496zkh8qkql2/KSU_POS_CBOW_300_40.zip?dl=0) |
 
 
 
