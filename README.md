@@ -14,7 +14,7 @@ https://mahaalrabiah.wordpress.com/2012/07/20/king-saud-university-corpus-of-cla
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
-CBOW        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/sh/1tvz8je9goebjq9/AAD1emSabZ5xO4wNngJWGm6va?dl=0) |
+CBOW        | 5 | **300**           | 5 	        | [Download](https://www.dropbox.com/s/pm2d6rx0axt48o3/KSU_CBOW_300_5.zip?dl=0) |
 CBOW         | 10 | **300**          | 5        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
 CBOW        | 20 | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
 CBOW        | 30  | **300**           | 5	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
